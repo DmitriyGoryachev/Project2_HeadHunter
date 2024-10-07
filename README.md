@@ -1,15 +1,7 @@
 # Анализ базы вакансий c Head Hunter
 
-## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)     
-
-
 ### Описание проекта    
 Выполнить анализ вакансий с сайта поиска вакансий hh.ru.
-
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
-
 
 ### Задачи:   
 1. Предварительный анализ вакансий
